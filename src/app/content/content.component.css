@@ -1,4 +1,7 @@
-article{
+:host {
+  flex-grow: 1;
   font-size: 1.2em;
   padding: 10px;
+  color: lightsteelblue;
+  background-color: rgba( 0, 0, 0, 0.3 );
 }
